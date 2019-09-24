@@ -25,11 +25,17 @@ Run
 python3 kart.py
 ```
 
+![](demo.png)
+
+
 Format
 ```
 pip3 install yapf
 yapf -i *.py
 ```
 
+# Ref
 
-![](demo.png)
+* http://www.coranac.com/tonc/text/mode7.htm
+
+* https://www.youtube.com/watch?v=ybLZyY655iY
